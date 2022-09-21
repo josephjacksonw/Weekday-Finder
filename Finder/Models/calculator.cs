@@ -24,8 +24,6 @@ namespace Calculator.Models
     
       List<string> days = new List<string> {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
       string result = days[w];
-      Console.WriteLine(result);
-      result = "false";
       return result;
     }
   }
