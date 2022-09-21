@@ -1,0 +1,12 @@
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.csproj.AssemblyReference.cache
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.AssemblyInfoInputs.cache
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.AssemblyInfo.cs
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.csproj.CoreCompileInputs.cache
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\Finder.deps.json
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\Finder.dll
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\ref\Finder.dll
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\Finder.pdb
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.dll
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\ref\Finder.dll
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.pdb
