@@ -10,3 +10,7 @@ C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\Finder.pdb
 C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.dll
 C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\ref\Finder.dll
 C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.pdb
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\Finder.exe
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\Finder.runtimeconfig.json
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\bin\Debug\net5.0\Finder.runtimeconfig.dev.json
+C:\Users\shabr\Desktop\Weekday-Finder\Finder\obj\Debug\net5.0\Finder.genruntimeconfig.cache

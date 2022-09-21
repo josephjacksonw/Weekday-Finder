@@ -28,20 +28,3 @@ namespace Calculator.Models
     }
   }
 }
-
-//devil code goes here
-//export const gaussAlg = function(M, d, Y){  //'d': day of month (1 to 31).  'M': month (1=Jan, 2=Feb, ..., 12=Dec).  'Y': 4-digit year #. 
-
-	// ; //Stores month-offset value based on given 'M' and 'Y' values. 
-	// List<int> monthOffsetCommonYrs = new List {  };  //monthOffsetCommonYrs[0] = Jan, [1]=Feb, ...
-	//   //Indices follow the same scheme as above. 
-
-	//   //0=Sunday, 1=Monday, ..., 6=Saturday.
-	// console.log("w = " + w); 
-
-	// let resultArray = [m, w];
-	// let wkdayInd = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]; 
-	// resultArray[1] = wkdayInd[w]; 
-	
-	
-	// return resultArray; 
